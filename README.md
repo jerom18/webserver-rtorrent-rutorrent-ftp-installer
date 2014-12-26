@@ -12,7 +12,6 @@ To install on Ubuntu -
 
 On Other Linux OS - 
 
-Login as root    
     su
     yum update
     yum install irssi && git
@@ -20,3 +19,4 @@ Login as root
     cd webserver-rtorrent-rutorrent-ftp-installer
     sudo sh setup
 
+After the above steps you will have a fully working seedbox on your dedicated server or vps!
