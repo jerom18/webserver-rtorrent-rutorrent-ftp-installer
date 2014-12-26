@@ -1,6 +1,9 @@
 webserver-rtorrent-rutorrent-ftp-installer
 ==========================================
 
+This script is all over the internet but it never appears to be upto date! I have updated all of the programs that are used within the script to the most recent versions and correct webpages.
+
+
 Installs a webserver, rtorrent, rutorrent, webmin and ftps in a couple of easy steps.
 
 To install on Ubuntu - 
