@@ -12,7 +12,7 @@ To install on Ubuntu -
     git clone https://github.com/jerom18/webserver-rtorrent-rutorrent-ftp-installer.git
     cd webserver-rtorrent-rutorrent-ftp-installer
     chmod a+x setup.sh
-    sudo sh setup
+    sudo ./setup.sh
 
 On Other Linux OS - 
 
@@ -22,6 +22,6 @@ On Other Linux OS -
     git clone https://github.com/jerom18/webserver-rtorrent-rutorrent-ftp-installer.git
     cd webserver-rtorrent-rutorrent-ftp-installer
      chmod a+x setup.sh
-    sudo sh setup
+    sudo ./setup.sh
 
 After the above steps you will have a fully working seedbox on your dedicated server or vps!
